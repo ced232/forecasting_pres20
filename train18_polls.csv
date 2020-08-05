@@ -1,0 +1,595 @@
+index,state,election,Poll,Date,Year,Sample,MoE,dem,gop,Spread
+1,MI,sen18,Mitchell Research,11/5 - 11/5,2018,827 LV,3.4,49,46,Stabenow +3
+1,MI,sen18,Mitchell Research,11/4 - 11/4,2018,701 LV,3.7,53,46,Stabenow +7
+1,MI,sen18,Trafalgar Group (R),11/2 - 11/5,2018,1817 LV,2.3,53,44,Stabenow +9
+1,MI,sen18,Gravis,10/29 - 10/30,2018,764 LV,3.6,54,41,Stabenow +13
+1,MI,sen18,Detroit News/WDIV-TV*,10/25 - 10/27,2018,600 LV,4,53,36,Stabenow +17
+1,MI,sen18,Mitchell Research,10/25 - 10/25,2018,400 LV,5,52,46,Stabenow +6
+1,MI,sen18,Emerson,10/24 - 10/26,2018,822 LV,3.6,52,43,Stabenow +9
+1,MI,sen18,Target-Insyght,10/22 - 10/24,2018,800 LV,3,53,43,Stabenow +10
+1,MI,sen18,EPIC-MRA,10/18 - 10/23,2018,600 LV,4,49,42,Stabenow +7
+1,MI,sen18,MRG,10/14 - 10/18,2018,600 LV,4,53,37,Stabenow +16
+1,MI,sen18,Mitchell Research,9/30 - 10/7,2018,654 LV,3.8,51,42,Stabenow +9
+1,MI,sen18,Detroit News/WDIV-TV,9/30 - 10/2,2018,600 LV,4,53,35,Stabenow +18
+1,MI,sen18,EPIC-MRA,9/21 - 9/25,2018,600 LV,4,56,33,Stabenow +23
+1,MI,sen18,Mitchell Research,9/12 - 9/13,2018,1009 LV,3,54,41,Stabenow +13
+1,MI,sen18,Target-Insyght/MIRS,9/10 - 9/14,2018,800 LV,3,55,40,Stabenow +15
+1,MI,sen18,Detroit News/WDIV-TV,9/5 - 9/7,2018,600 LV,4,56,33,Stabenow +23
+1,MI,sen18,Gravis,8/14 - 8/16,2018,647 LV,3.9,51,35,Stabenow +16
+1,MI,sen18,Emerson,7/19 - 7/21,2018,202 LV,7.3,47,29,Stabenow +18
+1,MI,sen18,NBC News/Marist,7/15 - 7/19,2018,886 RV,3.9,55,37,Stabenow +18
+1,MI,sen18,Detroit News/WDIV-TV,1/16 - 1/19,2018,600 LV,4,51,30,Stabenow +21
+2,MI,gov18,Mitchell Research,11/5 - 11/5,2018,827 LV,3.4,48,41,Whitmer +7
+2,MI,gov18,Mitchell Research,11/4 - 11/4,2018,701 LV,3.7,54,40,Whitmer +14
+2,MI,gov18,Detroit News/WDIV-TV*,10/25 - 10/27,2018,600 LV,4,50,38,Whitmer +12
+2,MI,gov18,Mitchell Research,10/25 - 10/25,2018,400 LV,5,48,43,Whitmer +5
+2,MI,gov18,Emerson,10/24 - 10/26,2018,822 LV,3.6,52,41,Whitmer +11
+2,MI,gov18,Target-Insyght,10/22 - 10/24,2018,800 LV,3,48,44,Whitmer +4
+2,MI,gov18,EPIC-MRA*,10/18 - 10/23,2018,600 LV,4,46,41,Whitmer +5
+2,MI,gov18,MRG,10/14 - 10/18,2018,600 LV,4,50,36,Whitmer +14
+2,MI,gov18,Mitchell Research,9/30 - 10/7,2018,654 LV,3.8,46,38,Whitmer +8
+2,MI,gov18,Detroit News/WDIV-TV,9/30 - 10/2,2018,600 LV,4,47,35,Whitmer +12
+2,MI,gov18,EPIC-MRA*,9/21 - 9/25,2018,600 LV,4,45,37,Whitmer +8
+2,MI,gov18,Mitchell Research,9/12 - 9/13,2018,1009 LV,3,48,38,Whitmer +10
+2,MI,gov18,Target-Insyght/MIRS,9/10 - 9/14,2018,800 LV,3,50,41,Whitmer +9
+2,MI,gov18,Detroit News/WDIV-TV,9/5 - 9/7,2018,600 LV,4,50,36,Whitmer +14
+2,MI,gov18,Gravis,8/14 - 8/16,2018,647 LV,3.9,52,37,Whitmer +15
+2,MI,gov18,Emerson,7/19 - 7/21,2018,600 LV,4.3,43,36,Whitmer +7
+2,MI,gov18,NBC News/Marist,7/15 - 7/19,2018,886 RV,3.9,47,38,Whitmer +9
+2,MI,gov18,Target-Insyght,6/24 - 6/26,2018,800 LV,3,42,37,Whitmer +5
+2,MI,gov18,EPIC-MRA,4/30 - 5/3,2018,600 LV,4,43,38,Whitmer +5
+2,MI,gov18,Detroit News/WDIV-TV,1/16 - 1/19,2018,600 LV,4,40,33,Whitmer +7
+3,OH,sen18,Gravis,10/29 - 10/30,2018,789 LV,3.5,46,37,Brown +9
+3,OH,sen18,Emerson,10/26 - 10/28,2018,566 LV,4.3,49,43,Brown +6
+3,OH,sen18,Suffolk,10/4 - 10/8,2018,500 LV,4.4,54,36,Brown +18
+3,OH,sen18,NBC News/Marist,9/16 - 9/20,2018,564 LV,5,52,39,Brown +13
+3,OH,sen18,NBC News/Marist,6/17 - 6/21,2018,778 RV,4.4,51,38,Brown +13
+3,OH,sen18,Quinnipiac,6/7 - 6/12,2018,1082 RV,3.7,51,34,Brown +17
+3,OH,sen18,Suffolk,6/6 - 6/11,2018,500 LV,4.4,53,37,Brown +16
+3,OH,sen18,WOIO-TV/SurveyUSA,3/16 - 3/20,2018,1408 RV,3.5,52,38,Brown +14
+4,OH,gov18,Gravis,10/29 - 10/30,2018,789 LV,3.5,48,43,Cordray +5
+4,OH,gov18,Emerson,10/26 - 10/28,2018,566 LV,4.3,49,46,Cordray +3
+4,OH,gov18,Suffolk*,10/4 - 10/8,2018,500 LV,4.4,46,40,Cordray +6
+4,OH,gov18,NBC News/Marist,9/16 - 9/20,2018,564 LV,5,47,47,Tie
+4,OH,gov18,NBC News/Marist,6/17 - 6/21,2018,778 RV,4.4,42,46,DeWine +4
+4,OH,gov18,Quinnipiac,6/7 - 6/12,2018,1082 RV,3.7,42,40,Cordray +2
+4,OH,gov18,Suffolk,6/6 - 6/11,2018,500 LV,4.4,43,36,Cordray +7
+4,OH,gov18,WOIO-TV/SurveyUSA,3/16 - 3/20,2018,1408 RV,3.5,39,47,DeWine +8
+5,WI,sen18,Emerson,10/29 - 10/31,2018,604 LV,4.1,53,44,Baldwin +9
+5,WI,sen18,Marquette,10/24 - 10/28,2018,1154 LV,3.2,54,43,Baldwin +11
+5,WI,sen18,Marquette,10/3 - 10/7,2018,799 LV,3.9,53,43,Baldwin +10
+5,WI,sen18,NBC News/Marist,9/30 - 10/3,2018,571 LV,4.8,54,40,Baldwin +14
+5,WI,sen18,Marquette,9/12 - 9/16,2018,614 LV,4.4,53,42,Baldwin +11
+5,WI,sen18,Suffolk,8/18 - 8/24,2018,500 LV,4.4,50,42,Baldwin +8
+5,WI,sen18,Marquette,8/15 - 8/19,2018,601 LV,4.5,49,47,Baldwin +2
+5,WI,sen18,Emerson,7/26 - 7/28,2018,632 RV,4.2,50,36,Baldwin +14
+5,WI,sen18,NBC News/Marist,7/15 - 7/19,2018,906 RV,3.8,55,38,Baldwin +17
+5,WI,sen18,Marquette,6/13 - 6/17,2018,800 RV,4,49,40,Baldwin +9
+6,WI,gov18,Emerson,10/29 - 10/31,2018,604 LV,4.1,51,46,Evers +5
+6,WI,gov18,Marquette*,10/24 - 10/28,2018,1154 LV,3.2,47,47,Tie
+6,WI,gov18,Marquette*,10/3 - 10/7,2018,799 LV,3.9,46,47,Walker +1
+6,WI,gov18,NBC News/Marist,9/30 - 10/3,2018,571 LV,4.8,53,43,Evers +10
+6,WI,gov18,Marquette*,9/12 - 9/16,2018,614 LV,4.4,49,44,Evers +5
+6,WI,gov18,Suffolk,8/18 - 8/24,2018,500 LV,4.4,46,44,Evers +2
+6,WI,gov18,Marquette*,8/15 - 8/19,2018,601 LV,4.5,46,46,Tie
+6,WI,gov18,PPP (D),8/15 - 8/16,2018,596 RV,4,49,44,Evers +5
+6,WI,gov18,Emerson,7/26 - 7/28,2018,632 RV,4.2,48,41,Evers +7
+6,WI,gov18,NBC News/Marist,7/15 - 7/19,2018,906 RV,3.8,54,41,Evers +13
+6,WI,gov18,Marquette,6/13 - 6/17,2018,800 RV,4,44,48,Walker +4
+7,IA,gov18,Des Moines Register,10/30 - 11/2,2018,801 LV,3.5,46,44,Hubbell +2
+7,IA,gov18,Emerson,10/29 - 11/1,2018,1462 LV,2.7,45,49,Reynolds +4
+7,IA,gov18,Univ. of Iowa,10/8 - 10/22,2018,496 LV,4.5,44,40,Hubbell +4
+7,IA,gov18,Des Moines Register,9/17 - 9/20,2018,555 LV,4.2,43,41,Hubbell +2
+7,IA,gov18,Emerson,9/6 - 9/8,2018,1000 RV,3.2,36,31,Hubbell +5
+8,AZ,sen18,Trafalgar Group (R),11/4 - 11/5,2018,1217 LV,2.8,45,47,McSally +2
+8,AZ,sen18,ABC 15/OH Predictive Insights*,11/2 - 11/3,2018,631 LV,4,48,49,McSally +1
+8,AZ,sen18,HarrisX,10/29 - 11/4,2018,1400 LV,2.6,45,48,McSally +3
+8,AZ,sen18,Emerson*,11/1 - 11/3,2018,758 LV,3.7,49,48,Sinema +1
+8,AZ,sen18,HarrisX,10/28 - 11/3,2018,1400 LV,2.6,43,49,McSally +6
+8,AZ,sen18,Trafalgar Group (R),10/30 - 11/1,2018,2166 LV,2.1,50,47,Sinema +3
+8,AZ,sen18,Gravis,10/24 - 11/2,2018,1165 LV,2.9,46,47,McSally +1
+8,AZ,sen18,FOX News,10/27 - 10/29,2018,643 LV,3.5,46,46,Tie
+8,AZ,sen18,CNN,10/24 - 10/29,2018,702 LV,4.4,51,47,Sinema +4
+8,AZ,sen18,NBC News/Marist,10/23 - 10/27,2018,506 LV,5.4,50,44,Sinema +6
+8,AZ,sen18,CBS News/YouGov,10/23 - 10/26,2018,972 LV,4.1,47,44,Sinema +3
+8,AZ,sen18,ABC 15/OH Predictive Insights*,10/22 - 10/23,2018,600 LV,4,45,52,McSally +7
+8,AZ,sen18,NY Times/Siena,10/15 - 10/19,2018,606 LV,4.2,46,48,McSally +2
+8,AZ,sen18,CBS News/YouGov,10/2 - 10/5,2018,898 LV,--,47,44,Sinema +3
+8,AZ,sen18,ABC 15/OH Predictive Insights,10/1 - 10/2,2018,600 LV,4,41,47,McSally +6
+8,AZ,sen18,FOX News,9/29 - 10/2,2018,716 LV,3.5,47,45,Sinema +2
+8,AZ,sen18,Suffolk*,9/27 - 9/30,2018,500 LV,4.4,45,42,Sinema +3
+8,AZ,sen18,Emerson*,9/19 - 9/21,2018,650 RV,4.4,45,39,Sinema +6
+8,AZ,sen18,NBC News/Marist,9/16 - 9/20,2018,564 LV,4.7,48,45,Sinema +3
+8,AZ,sen18,CNN,9/11 - 9/15,2018,761 LV,4.3,50,43,Sinema +7
+8,AZ,sen18,FOX News,9/8 - 9/11,2018,710 LV,3.5,47,44,Sinema +3
+8,AZ,sen18,ABC 15/OH Predictive Insights,9/5 - 9/6,2018,597 LV,4,46,49,McSally +3
+8,AZ,sen18,Gravis,9/5 - 9/7,2018,882 LV,5.3,48,49,McSally +1
+8,AZ,sen18,ABC 15/OH Predictive Insights,7/23 - 7/25,2018,600 LV,4,48,44,Sinema +4
+8,AZ,sen18,Gravis,6/27 - 7/2,2018,925 LV,3.2,43,39,Sinema +4
+8,AZ,sen18,Emerson,6/21 - 6/22,2018,650 RV,4,40,32,Sinema +8
+8,AZ,sen18,NBC News/Marist,6/17 - 6/21,2018,839 RV,4.5,49,38,Sinema +11
+8,AZ,sen18,CBS News/YouGov,6/19 - 6/22,2018,869 LV,--,45,37,Sinema +8
+8,AZ,sen18,ABC 15/OH Predictive Insights,4/10 - 4/11,2018,600 LV,4,48,42,Sinema +6
+8,AZ,sen18,OH Predictive Insights,11/9 - 11/9,2017,600 LV,4,46,45,Sinema +1
+9,AZ,gov18,HarrisX,10/29 - 11/4,2018,1400 LV,2.6,37,56,Ducey +19
+9,AZ,gov18,Emerson,11/1 - 11/3,2018,758 LV,3.7,40,55,Ducey +15
+9,AZ,gov18,HarrisX,10/28 - 11/3,2018,1400 LV,2.6,36,56,Ducey +20
+9,AZ,gov18,Gravis,10/24 - 11/2,2018,1165 LV,2.9,40,53,Ducey +13
+9,AZ,gov18,FOX News,10/27 - 10/29,2018,643 LV,3.5,37,55,Ducey +18
+9,AZ,gov18,CNN,10/24 - 10/29,2018,702 LV,4.4,45,52,Ducey +7
+9,AZ,gov18,NBC News/Marist,10/23 - 10/27,2018,506 LV,5.4,42,55,Ducey +13
+9,AZ,gov18,CBS News/YouGov,10/23 - 10/26,2018,972 LV,4.1,41,52,Ducey +11
+9,AZ,gov18,ABC 15/OH Predictive Insights,10/22 - 10/23,2018,600 LV,4,39,57,Ducey +18
+9,AZ,gov18,OH Predictive Insights,10/3 - 10/3,2018,600 LV,4,37,54,Ducey +17
+9,AZ,gov18,FOX News,9/29 - 10/2,2018,716 LV,3.5,37,55,Ducey +18
+9,AZ,gov18,Suffolk*,9/27 - 9/30,2018,500 LV,4.4,38,50,Ducey +12
+9,AZ,gov18,NBC News/Marist,9/16 - 9/20,2018,564 LV,4.7,43,51,Ducey +8
+9,AZ,gov18,Emerson*,9/19 - 9/21,2018,650 RV,4.4,38,42,Ducey +4
+9,AZ,gov18,CNN,9/11 - 9/15,2018,761 LV,4.3,46,49,Ducey +3
+9,AZ,gov18,FOX News,9/8 - 9/11,2018,710 LV,3.5,40,51,Ducey +11
+9,AZ,gov18,Gravis,9/5 - 9/7,2018,882 LV,5.3,44,48,Ducey +4
+9,AZ,gov18,Gravis,6/27 - 7/2,2018,925 LV,3.2,42,41,Garcia +1
+10,PA,sen18,Morning Call,10/28 - 11/1,2018,421 LV,5.5,54,40,Casey +14
+10,PA,sen18,Franklin & Marshall*,10/22 - 10/28,2018,214 LV,9.5,50,35,Casey +15
+10,PA,sen18,Franklin & Marshall*,9/17 - 9/23,2018,204 LV,--,50,33,Casey +17
+10,PA,sen18,Morning Call*,9/13 - 9/19,2018,404 LV,5.5,53,35,Casey +18
+10,PA,sen18,Rasmussen Reports,9/12 - 9/13,2018,800 LV,3.5,52,38,Casey +14
+10,PA,sen18,Franklin & Marshall*,8/20 - 8/26,2018,222 LV,6.9,47,34,Casey +13
+10,PA,sen18,NBC News/Marist,8/12 - 8/16,2018,713 RV,4.2,53,38,Casey +15
+10,PA,sen18,Suffolk,6/21 - 6/25,2018,500 LV,4.4,47,32,Casey +15
+10,PA,sen18,Franklin & Marshall,6/4 - 6/10,2018,472 RV,6.5,44,27,Casey +17
+10,PA,sen18,Morning Call,4/4 - 4/12,2018,414 RV,5.5,48,32,Casey +16
+10,PA,sen18,Franklin & Marshall,3/19 - 3/26,2018,423 RV,6.8,43,25,Casey +18
+11,PA,gov18,Morning Call,10/28 - 11/1,2018,421 LV,5.5,58,37,Wolf +21
+11,PA,gov18,Franklin & Marshall*,10/22 - 10/28,2018,214 LV,9.5,59,33,Wolf +26
+11,PA,gov18,Franklin & Marshall*,9/17 - 9/23,2018,204 LV,--,52,30,Wolf +22
+11,PA,gov18,Morning Call*,9/13 - 9/19,2018,404 LV,5.5,55,36,Wolf +19
+11,PA,gov18,Rasmussen Reports,9/12 - 9/13,2018,800 LV,3.5,52,40,Wolf +12
+11,PA,gov18,Franklin & Marshall*,8/20 - 8/26,2018,222 LV,6.9,52,35,Wolf +17
+11,PA,gov18,NBC News/Marist,8/12 - 8/16,2018,713 RV,4.2,54,40,Wolf +14
+11,PA,gov18,Suffolk,6/21 - 6/25,2018,500 LV,4.4,49,36,Wolf +13
+11,PA,gov18,Franklin & Marshall,6/4 - 6/10,2018,472 RV,6.5,48,29,Wolf +19
+11,PA,gov18,Morning Call,4/4 - 4/12,2018,414 RV,5.5,47,31,Wolf +16
+11,PA,gov18,Franklin & Marshall,3/19 - 3/26,2018,137 RV,8.2,38,21,Wolf +17
+12,FL,sen18,Trafalgar Group (R),11/4 - 11/5,2018,1484 LV,2.5,47,49,Scott +2
+12,FL,sen18,St. Pete Polls,11/3 - 11/4,2018,3088 LV,1.8,50,46,Nelson +4
+12,FL,sen18,Emerson,11/1 - 11/3,2018,748 LV,3.7,50,45,Nelson +5
+12,FL,sen18,HarrisX,10/29 - 11/4,2018,1400 LV,2.6,46,48,Scott +2
+12,FL,sen18,Quinnipiac,10/29 - 11/4,2018,1142 LV,3.5,51,44,Nelson +7
+12,FL,sen18,HarrisX,10/28 - 11/3,2018,1400 LV,2.6,45,48,Scott +3
+12,FL,sen18,St. Pete Polls,11/1 - 11/2,2018,2733 LV,2,48,49,Scott +1
+12,FL,sen18,Gravis,10/29 - 11/2,2018,753 LV,3.6,50,47,Nelson +3
+12,FL,sen18,NBC News/Marist,10/30 - 11/1,2018,595 LV,5,50,46,Nelson +4
+12,FL,sen18,St. Pete Polls,10/30 - 10/31,2018,2470 LV,2,49,47,Nelson +2
+12,FL,sen18,Trafalgar Group (R),10/29 - 10/30,2018,2543 LV,1.9,49,47,Nelson +2
+12,FL,sen18,USA Today/Suffolk,10/25 - 10/28,2018,500 LV,4.4,45,43,Nelson +2
+12,FL,sen18,CNN,10/24 - 10/29,2018,781 LV,4.3,49,47,Nelson +2
+12,FL,sen18,NY Times/Siena,10/23 - 10/27,2018,737 LV,4,48,44,Nelson +4
+12,FL,sen18,CBS News/YouGov,10/23 - 10/26,2018,991 LV,4,46,46,Tie
+12,FL,sen18,UNF,10/23 - 10/26,2018,1045 LV,3,47,46,Nelson +1
+12,FL,sen18,Gravis,10/22 - 10/23,2018,773 LV,3.5,49,45,Nelson +4
+12,FL,sen18,St. Pete Polls,10/20 - 10/21,2018,1575 LV,2.5,48,49,Scott +1
+12,FL,sen18,WCTV-TV,10/16 - 10/23,2018,800 LV,3.5,46,45,Nelson +1
+12,FL,sen18,Florida Atlantic University,10/18 - 10/21,2018,740 LV,3.6,41,42,Scott +1
+12,FL,sen18,Bay News 9/SurveyUSA,10/18 - 10/21,2018,665 LV,5,49,41,Nelson +8
+12,FL,sen18,Quinnipiac,10/17 - 10/21,2018,1161 LV,3.5,52,46,Nelson +6
+12,FL,sen18,CNN,10/16 - 10/20,2018,759 LV,4.2,50,45,Nelson +5
+12,FL,sen18,St. Pete Polls,10/15 - 10/16,2018,1974 LV,2.2,47,49,Scott +2
+12,FL,sen18,St. Pete Polls,9/29 - 9/30,2018,2313 LV,2,47,47,Tie
+12,FL,sen18,WCTV-TV,9/17 - 9/30,2018,800 LV,3.5,45,44,Nelson +1
+12,FL,sen18,Mason-Dixon,9/24 - 9/27,2018,815 LV,3.5,47,46,Nelson +1
+12,FL,sen18,Quinnipiac,9/20 - 9/24,2018,888 LV,4,53,46,Nelson +7
+12,FL,sen18,UNF,9/17 - 9/19,2018,603 LV,4,45,45,Tie
+12,FL,sen18,NBC News/Marist,9/16 - 9/20,2018,600 LV,4.7,48,45,Nelson +3
+12,FL,sen18,Florida Atlantic University,9/13 - 9/16,2018,850 LV,3.3,41,42,Scott +1
+12,FL,sen18,Rasmussen Reports,9/10 - 9/11,2018,800 LV,3.5,45,44,Nelson +1
+12,FL,sen18,SurveyUSA,9/7 - 9/9,2018,634 LV,5.3,44,46,Scott +2
+12,FL,sen18,Quinnipiac,8/30 - 9/3,2018,785 LV,4.3,49,49,Tie
+12,FL,sen18,Gravis,8/29 - 8/30,2018,1225 LV,2.8,47,47,Tie
+12,FL,sen18,St. Pete Polls,8/29 - 8/30,2018,1755 LV,2.3,47,47,Tie
+12,FL,sen18,Florida Atlantic University,8/16 - 8/20,2018,800 RV,3.4,39,45,Scott +6
+12,FL,sen18,Mason-Dixon,7/24 - 7/25,2018,625 LV,4,44,47,Scott +3
+12,FL,sen18,Florida Atlantic University,7/20 - 7/21,2018,800 RV,3.4,40,44,Scott +4
+12,FL,sen18,Gravis,7/13 - 7/14,2018,1840 LV,2.3,47,43,Nelson +4
+12,FL,sen18,CBS News/YouGov,6/19 - 6/22,2018,839 LV,--,41,46,Scott +5
+12,FL,sen18,NBC News/Marist,6/17 - 6/21,2018,947 RV,3.9,49,45,Nelson +4
+12,FL,sen18,FL Chamber,5/25 - 6/4,2018,605 LV,4,45,48,Scott +3
+12,FL,sen18,Florida Atlantic University,5/4 - 5/7,2018,1000 RV,3,40,44,Scott +4
+12,FL,sen18,Gravis,2/26 - 3/19,2018,2212 LV,2.1,44,40,Nelson +4
+12,FL,sen18,Quinnipiac,2/23 - 2/26,2018,1156 RV,3.6,46,42,Nelson +4
+12,FL,sen18,Gravis,2/1 - 2/18,2018,1978 RV,2.2,44,40,Nelson +4
+12,FL,sen18,UNF,1/29 - 2/4,2018,429 LV,4.7,48,42,Nelson +6
+12,FL,sen18,Mason-Dixon,1/30 - 2/1,2018,625 RV,4,45,44,Nelson +1
+12,FL,sen18,Mason-Dixon,10/17 - 10/19,2017,625 LV,4,44,44,Tie
+12,FL,sen18,UNF,10/11 - 10/17,2017,706 LV,3.4,37,36,Nelson +1
+12,FL,sen18,FL Chamber,9/17 - 9/24,2017,615 LV,--,45,47,Scott +2
+12,FL,sen18,Florida Atlantic University,8/24 - 8/26,2017,800 LV,4,42,40,Nelson +2
+12,FL,sen18,Gravis,4/4 - 4/10,2017,1243 RV,2.8,56,28,Nelson +28
+13,FL,gov18,Trafalgar Group (R),11/4 - 11/5,2018,1484 LV,2.5,47,50,DeSantis +3
+13,FL,gov18,St. Pete Polls,11/3 - 11/4,2018,3088 LV,1.8,50,45,Gillum +5
+13,FL,gov18,Emerson,11/1 - 11/3,2018,748 LV,3.7,51,46,Gillum +5
+13,FL,gov18,HarrisX,10/29 - 11/4,2018,1400 LV,2.6,49,45,Gillum +4
+13,FL,gov18,Quinnipiac,10/29 - 11/4,2018,1142 LV,3.5,50,43,Gillum +7
+13,FL,gov18,HarrisX,10/28 - 11/3,2018,1400 LV,2.6,48,45,Gillum +3
+13,FL,gov18,St. Pete Polls,11/1 - 11/2,2018,2733 LV,2,48,46,Gillum +2
+13,FL,gov18,Gravis,10/29 - 11/2,2018,753 LV,3.6,48,47,Gillum +1
+13,FL,gov18,NBC News/Marist,10/30 - 11/1,2018,595 LV,5,50,46,Gillum +4
+13,FL,gov18,Trafalgar Group (R),10/29 - 10/30,2018,2543 LV,1.9,48,46,Gillum +2
+13,FL,gov18,USA Today/Suffolk*,10/25 - 10/28,2018,500 LV,4.4,45,44,Gillum +1
+13,FL,gov18,CNN,10/24 - 10/29,2018,781 LV,4.3,49,48,Gillum +1
+13,FL,gov18,NY Times/Siena,10/23 - 10/27,2018,737 LV,4,48,43,Gillum +5
+13,FL,gov18,CBS News/YouGov,10/23 - 10/26,2018,991 LV,4,47,46,Gillum +1
+13,FL,gov18,UNF,10/23 - 10/26,2018,1048 LV,3,49,43,Gillum +6
+13,FL,gov18,Gravis,10/22 - 10/23,2018,773 LV,3.5,51,46,Gillum +5
+13,FL,gov18,St. Pete Polls*,10/20 - 10/21,2018,1575 LV,2.5,47,46,Gillum +1
+13,FL,gov18,WCTV-TV,10/16 - 10/23,2018,800 LV,3.5,45,48,DeSantis +3
+13,FL,gov18,Florida Atlantic University,10/18 - 10/21,2018,740 LV,3.6,41,37,Gillum +4
+13,FL,gov18,Bay News 9/SurveyUSA,10/18 - 10/21,2018,665 LV,5,49,42,Gillum +7
+13,FL,gov18,Quinnipiac,10/17 - 10/21,2018,1161 LV,3.5,52,46,Gillum +6
+13,FL,gov18,CNN,10/16 - 10/20,2018,759 LV,4.2,54,42,Gillum +12
+13,FL,gov18,St. Pete Polls*,10/15 - 10/16,2018,1974 LV,2.2,47,46,Gillum +1
+13,FL,gov18,St. Pete Polls*,9/29 - 9/30,2018,2313 LV,2,47,45,Gillum +2
+13,FL,gov18,WCTV-TV,9/17 - 9/30,2018,800 LV,3.5,44,43,Gillum +1
+13,FL,gov18,Mason-Dixon*,9/24 - 9/27,2018,815 LV,3.5,45,44,Gillum +1
+13,FL,gov18,Quinnipiac,9/20 - 9/24,2018,888 LV,4,54,45,Gillum +9
+13,FL,gov18,NBC News/Marist,9/16 - 9/20,2018,600 LV,4.7,48,43,Gillum +5
+13,FL,gov18,UNF,9/17 - 9/19,2018,603 LV,4,47,43,Gillum +4
+13,FL,gov18,Florida Atlantic University,9/13 - 9/16,2018,850 LV,3.3,41,39,Gillum +2
+13,FL,gov18,Rasmussen Reports,9/10 - 9/11,2018,800 LV,3.5,48,42,Gillum +6
+13,FL,gov18,SurveyUSA,9/7 - 9/9,2018,634 LV,5.3,47,43,Gillum +4
+13,FL,gov18,St. Pete Polls,9/5 - 9/6,2018,2240 LV,2.1,48,47,Gillum +1
+13,FL,gov18,Quinnipiac,8/30 - 9/3,2018,785 LV,4.3,50,47,Gillum +3
+13,FL,gov18,Gravis,8/29 - 8/30,2018,1225 LV,2.8,47,45,Gillum +2
+13,FL,gov18,Gravis,7/13 - 7/14,2018,1840 LV,2.3,36,39,DeSantis +3
+13,FL,gov18,Gravis,2/26 - 3/19,2018,2212 LV,2.1,33,29,Gillum +4
+14,TX,sen18,Trafalgar Group (R),11/3 - 11/5,2018,2135 LV,2.1,43,52,Cruz +9
+14,TX,sen18,Emerson*,10/28 - 10/30,2018,781 LV,3.7,47,50,Cruz +3
+14,TX,sen18,CBS 11/Dixie Strategies,10/25 - 10/26,2018,588 LV,4,42,52,Cruz +10
+14,TX,sen18,Quinnipiac,10/22 - 10/28,2018,1078 LV,3.5,46,51,Cruz +5
+14,TX,sen18,UT/Texas Tribune*,10/15 - 10/21,2018,927 LV,3.2,45,51,Cruz +6
+14,TX,sen18,CNN,10/9 - 10/13,2018,716 LV,4.5,45,52,Cruz +7
+14,TX,sen18,NY Times/Siena,10/8 - 10/11,2018,800 LV,3.6,43,51,Cruz +8
+14,TX,sen18,Quinnipiac,10/3 - 10/9,2018,730 LV,4.4,45,54,Cruz +9
+14,TX,sen18,CBS News/YouGov,10/2 - 10/5,2018,881 LV,--,44,50,Cruz +6
+14,TX,sen18,Emerson*,10/1 - 10/5,2018,500 LV,4.5,42,47,Cruz +5
+14,TX,sen18,Quinnipiac,9/11 - 9/17,2018,807 LV,4.1,45,54,Cruz +9
+14,TX,sen18,CBS 11/Dixie Strategies,9/6 - 9/7,2018,519 LV,4.3,42,46,Cruz +4
+14,TX,sen18,Emerson,8/22 - 8/25,2018,550 RV,4.4,38,39,Cruz +1
+14,TX,sen18,NBC News/Marist,8/12 - 8/16,2018,759 RV,3.8,45,49,Cruz +4
+14,TX,sen18,Quinnipiac,7/26 - 7/31,2018,1138 RV,3.5,43,49,Cruz +6
+14,TX,sen18,Texas Lyceum*,7/9 - 7/26,2018,441 LV,4.7,39,41,Cruz +2
+14,TX,sen18,Gravis,7/3 - 7/7,2018,602 LV,4,42,51,Cruz +9
+14,TX,sen18,CBS News/YouGov,6/19 - 6/22,2018,821 LV,--,40,50,Cruz +10
+14,TX,sen18,UT/Texas Tribune*,6/8 - 6/17,2018,1200 RV,2.8,36,41,Cruz +5
+14,TX,sen18,Quinnipiac,5/23 - 5/29,2018,961 RV,3.8,39,50,Cruz +11
+14,TX,sen18,JMC Analytics,5/19 - 5/21,2018,575 LV,4.1,40,47,Cruz +7
+14,TX,sen18,Quinnipiac,4/12 - 4/17,2018,1029 RV,3.6,44,47,Cruz +3
+15,TX,gov18,Emerson,10/28 - 10/30,2018,781 LV,3.7,43,51,Abbott +8
+15,TX,gov18,CBS 11/Dixie Strategies,10/25 - 10/26,2018,588 LV,4,33,59,Abbott +26
+15,TX,gov18,Quinnipiac,10/22 - 10/28,2018,1078 LV,3.5,40,54,Abbott +14
+15,TX,gov18,UT/Texas Tribune*,10/15 - 10/21,2018,927 LV,3.2,37,56,Abbott +19
+15,TX,gov18,CNN,10/9 - 10/13,2018,716 LV,4.5,39,57,Abbott +18
+15,TX,gov18,NY Times/Siena,10/8 - 10/11,2018,800 LV,3.6,35,57,Abbott +22
+15,TX,gov18,Quinnipiac,10/3 - 10/9,2018,730 LV,4.4,38,58,Abbott +20
+15,TX,gov18,Emerson*,10/1 - 10/5,2018,500 LV,4.5,33,53,Abbott +20
+15,TX,gov18,Quinnipiac,9/11 - 9/17,2018,807 LV,4.1,39,58,Abbott +19
+15,TX,gov18,CBS 11/Dixie Strategies,9/6 - 9/7,2018,519 LV,4.3,34,53,Abbott +19
+15,TX,gov18,Emerson,8/22 - 8/25,2018,550 RV,4.4,28,48,Abbott +20
+15,TX,gov18,NBC News/Marist,8/12 - 8/16,2018,759 RV,3.8,37,56,Abbott +19
+15,TX,gov18,Quinnipiac,7/26 - 7/31,2018,1138 RV,3.5,38,51,Abbott +13
+15,TX,gov18,Texas Lyceum*,7/9 - 7/26,2018,441 LV,4.7,31,47,Abbott +16
+15,TX,gov18,Gravis,7/3 - 7/7,2018,602 LV,4,41,51,Abbott +10
+15,TX,gov18,UT/Texas Tribune*,6/8 - 6/17,2018,1200 RV,2.8,32,44,Abbott +12
+15,TX,gov18,Quinnipiac,5/23 - 5/29,2018,961 RV,3.8,34,53,Abbott +19
+15,TX,gov18,JMC Analytics,5/19 - 5/21,2018,575 LV,4.1,36,48,Abbott +12
+15,TX,gov18,Quinnipiac,4/12 - 4/17,2018,1029 RV,3.6,40,49,Abbott +9
+16,NV,sen18,Emerson,11/1 - 11/4,2018,1197 LV,3,49,45,Rosen +4
+16,NV,sen18,HarrisX,10/29 - 11/4,2018,1400 LV,2.6,45,46,Heller +1
+16,NV,sen18,Trafalgar Group (R),10/29 - 11/1,2018,2587 LV,1.9,46,49,Heller +3
+16,NV,sen18,HarrisX,10/28 - 11/3,2018,1400 LV,2.6,45,45,Tie
+16,NV,sen18,CNN*,10/24 - 10/29,2018,622 LV,4.8,48,45,Rosen +3
+16,NV,sen18,Gravis,10/24 - 10/26,2018,773 LV,3.5,47,45,Rosen +2
+16,NV,sen18,Emerson*,10/10 - 10/12,2018,625 LV,4.2,41,48,Heller +7
+16,NV,sen18,NY Times/Siena,10/8 - 10/10,2018,642 LV,4,45,47,Heller +2
+16,NV,sen18,NBC News/Marist,9/30 - 10/3,2018,574 LV,5.5,44,46,Heller +2
+16,NV,sen18,CNN*,9/25 - 9/29,2018,693 LV,4.6,47,43,Rosen +4
+16,NV,sen18,Gravis,9/11 - 9/12,2018,700 LV,3.7,47,45,Rosen +2
+16,NV,sen18,Suffolk*,9/5 - 9/10,2018,500 LV,4.4,42,41,Rosen +1
+16,NV,sen18,Suffolk*,7/25 - 7/29,2018,500 LV,4.4,40,41,Heller +1
+16,NV,sen18,Gravis,6/23 - 6/26,2018,630 RV,3.9,45,41,Rosen +4
+16,NV,sen18,Nevada Independent/Mellman,4/12 - 4/19,2018,600 LV,4,39,40,Heller +1
+17,NV,gov18,Emerson,11/1 - 11/4,2018,1197 LV,3,48,47,Sisolak +1
+17,NV,gov18,HarrisX,10/29 - 11/4,2018,1400 LV,2.6,44,45,Laxalt +1
+17,NV,gov18,Trafalgar Group (R),10/29 - 11/1,2018,2587 LV,1.9,45,47,Laxalt +2
+17,NV,gov18,HarrisX,10/28 - 11/3,2018,1400 LV,2.6,44,45,Laxalt +1
+17,NV,gov18,CNN*,10/24 - 10/29,2018,622 LV,4.8,46,45,Sisolak +1
+17,NV,gov18,Gravis,10/24 - 10/26,2018,773 LV,3.5,46,44,Sisolak +2
+17,NV,gov18,Emerson*,10/10 - 10/12,2018,625 LV,4.2,41,46,Laxalt +5
+17,NV,gov18,NY Times/Siena,10/8 - 10/10,2018,642 LV,4,45,46,Laxalt +1
+17,NV,gov18,NBC News/Marist,9/30 - 10/3,2018,574 LV,5.5,45,46,Laxalt +1
+17,NV,gov18,CNN*,9/25 - 9/29,2018,693 LV,4.6,45,41,Sisolak +4
+17,NV,gov18,Gravis,9/11 - 9/12,2018,700 LV,3.7,50,38,Sisolak +12
+17,NV,gov18,Suffolk*,9/5 - 9/10,2018,500 LV,4.4,37,35,Sisolak +2
+17,NV,gov18,Suffolk*,7/25 - 7/29,2018,500 LV,4.4,41,42,Laxalt +1
+17,NV,gov18,Gravis,6/23 - 6/26,2018,630 RV,3.9,41,43,Laxalt +2
+17,NV,gov18,Nevada Independent/Mellman,4/12 - 4/19,2018,600 LV,4,43,37,Sisolak +6
+18,MN,sen18a,KSTP/SurveyUSA,10/29 - 10/31,2018,600 LV,5.3,48,40,Smith +8
+18,MN,sen18a,Star Tribune/Mason-Dixon*,10/15 - 10/17,2018,800 LV,3.5,47,41,Smith +6
+18,MN,sen18a,NBC News/Marist,9/30 - 10/4,2018,637 LV,4.9,54,38,Smith +16
+18,MN,sen18a,Star Tribune/Mason-Dixon,9/10 - 9/12,2018,800 LV,3.5,44,37,Smith +7
+18,MN,sen18a,KSTP/SurveyUSA,9/6 - 9/8,2018,574 LV,4.9,48,39,Smith +9
+18,MN,sen18a,Suffolk*,8/17 - 8/20,2018,500 LV,4.4,44,37,Smith +7
+18,MN,sen18a,Emerson,8/8 - 8/11,2018,500 LV,4.6,32,28,Smith +4
+18,MN,sen18a,NBC News/Marist,7/15 - 7/19,2018,876 RV,4,49,35,Smith +14
+19,MN,sen18b,KSTP/SurveyUSA,10/29 - 10/31,2018,600 LV,5.2,57,34,Klobuchar +23
+19,MN,sen18b,Star Tribune/Mason-Dixon*,10/15 - 10/17,2018,800 LV,3.5,56,33,Klobuchar +23
+19,MN,sen18b,NBC News/Marist,9/30 - 10/4,2018,637 LV,4.9,63,33,Klobuchar +30
+19,MN,sen18b,Star Tribune/Mason-Dixon,9/10 - 9/12,2018,800 LV,3.5,60,30,Klobuchar +30
+19,MN,sen18b,KSTP/SurveyUSA,9/6 - 9/8,2018,574 LV,4.9,53,38,Klobuchar +15
+19,MN,sen18b,Suffolk*,8/17 - 8/20,2018,500 LV,4.4,54,34,Klobuchar +20
+19,MN,sen18b,Emerson,8/8 - 8/11,2018,500 LV,4.6,50,26,Klobuchar +24
+20,MN,gov18,KSTP/SurveyUSA,10/29 - 10/31,2018,600 LV,5.3,49,41,Walz +8
+20,MN,gov18,Star Tribune/Mason-Dixon,10/15 - 10/17,2018,800 LV,3.5,45,39,Walz +6
+20,MN,gov18,NBC News/Marist,9/30 - 10/4,2018,637 LV,4.9,55,38,Walz +17
+20,MN,gov18,Star Tribune/Mason-Dixon,9/10 - 9/12,2018,800 LV,3.5,45,36,Walz +9
+20,MN,gov18,KSTP/SurveyUSA,9/6 - 9/8,2018,574 LV,4.9,47,40,Walz +7
+20,MN,gov18,Suffolk*,8/17 - 8/20,2018,500 LV,4.4,46,41,Walz +5
+20,MN,gov18,Emerson,8/8 - 8/11,2018,500 LV,4.6,40,33,Walz +7
+21,NH,gov18,UNH*,11/1 - 11/4,2018,630 LV,3.9,49,49,Tie
+21,NH,gov18,Emerson,10/27 - 10/29,2018,441 LV,4.9,43,51,Sununu +8
+21,NH,gov18,UNH*,10/10 - 10/18,2018,499 LV,4.4,39,50,Sununu +11
+21,NH,gov18,Emerson*,10/10 - 10/12,2018,157 LV,8.1,35,51,Sununu +16
+21,NH,gov18,UNH,8/2 - 8/19,2018,389 LV,5,32,48,Sununu +16
+21,NH,gov18,Suffolk*,4/26 - 4/30,2018,800 LV,3.5,27,48,Sununu +21
+21,NH,gov18,UNH*,4/13 - 4/22,2018,379 LV,5,24,51,Sununu +27
+22,VA,sen18,Univ. of Mary Washington,9/4 - 9/9,2018,512 LV,5.8,52,36,Kaine +16
+22,VA,sen18,Roanoke College*,8/12 - 8/19,2018,512 LV,4.3,51,34,Kaine +17
+22,VA,sen18,VCU*,7/10 - 7/30,2018,757 LV,3.6,49,26,Kaine +23
+22,VA,sen18,Quinnipiac,6/21 - 6/25,2018,1082 RV,3.7,54,36,Kaine +18
+22,VA,sen18,Roanoke College,5/20 - 5/30,2018,555 RV,4.2,44,33,Kaine +11
+22,VA,sen18,Christopher Newport Univ.,2/5 - 2/28,2018,1562 RV,2.5,56,32,Kaine +24
+22,VA,sen18,Univ. of Mary Washington,9/5 - 9/12,2017,562 LV,5.2,53,36,Kaine +17
+23,GA,gov18,Trafalgar Group (R),10/30 - 11/3,2018,2171 LV,2.1,40,52,Kemp +12
+23,GA,gov18,Emerson,10/29 - 10/31,2018,724 LV,3.7,47,49,Kemp +2
+23,GA,gov18,FOX 5 Atlanta/Opinion Savvy*,10/28 - 10/29,2018,623 LV,3.9,48,47,Abrams +1
+23,GA,gov18,Atlanta Journal-Constitution,10/21 - 10/30,2018,1091 LV,3,47,47,Tie
+23,GA,gov18,FOX 5 Atlanta/Opinion Savvy*,10/21 - 10/22,2018,824 LV,3.4,48,48,Tie
+23,GA,gov18,NBC News/Marist,10/14 - 10/18,2018,554 LV,4.8,47,49,Kemp +2
+23,GA,gov18,WXIA-TV/SurveyUSA,10/3 - 10/8,2018,655 LV,4.9,45,47,Kemp +2
+23,GA,gov18,Atlanta Journal-Constitution*,9/30 - 10/9,2018,1232 LV,2.8,46,48,Kemp +2
+23,GA,gov18,Landmark Communications*,10/1 - 10/1,2018,964 LV,3.2,46,48,Kemp +2
+23,GA,gov18,Atlanta Journal-Constitution*,8/26 - 9/4,2018,1020 LV,3.1,45,45,Tie
+23,GA,gov18,Gravis,7/27 - 7/29,2018,650 LV,3.8,46,44,Abrams +2
+23,GA,gov18,WXIA-TV/SurveyUSA,7/15 - 7/19,2018,1199 LV,4.3,44,46,Kemp +2
+23,GA,gov18,Mason-Dixon,2/20 - 2/23,2018,625 RV,4,40,37,Abrams +3
+24,NY,sen18,Siena,10/28 - 11/1,2018,641 LV,3.9,58,35,Gillibrand +23
+24,NY,sen18,Quinnipiac,10/10 - 10/16,2018,852 LV,4.4,58,33,Gillibrand +25
+24,NY,sen18,Siena,9/20 - 9/27,2018,701 LV,3.9,61,29,Gillibrand +32
+24,NY,sen18,Quinnipiac,7/12 - 7/16,2018,934 RV,4.1,57,30,Gillibrand +27
+24,NY,sen18,Siena,6/4 - 6/7,2018,745 LV,3.7,61,28,Gillibrand +33
+24,NY,sen18,Quinnipiac,4/26 - 5/1,2018,1076 RV,3.7,58,23,Gillibrand +35
+24,NY,sen18,Siena,4/8 - 4/12,2018,692 RV,4.3,58,27,Gillibrand +31
+24,NY,sen18,Siena,3/11 - 3/16,2018,772 RV,4,60,24,Gillibrand +36
+25,NY,gov18,Siena*,10/28 - 11/1,2018,641 LV,3.9,49,36,Cuomo +13
+25,NY,gov18,Quinnipiac,10/10 - 10/16,2018,852 LV,4.4,58,35,Cuomo +23
+25,NY,gov18,Siena,9/20 - 9/27,2018,701 LV,3.9,56,38,Cuomo +18
+25,NY,gov18,Quinnipiac,7/12 - 7/16,2018,934 RV,4.1,57,31,Cuomo +26
+25,NY,gov18,Siena,6/4 - 6/7,2018,745 LV,3.7,56,37,Cuomo +19
+25,NY,gov18,Quinnipiac,4/26 - 5/1,2018,1076 RV,3.7,57,26,Cuomo +31
+25,NY,gov18,Siena,4/8 - 4/12,2018,692 RV,4.3,57,31,Cuomo +26
+25,NY,gov18,Siena,3/11 - 3/16,2018,772 RV,4,57,29,Cuomo +28
+26,TN,sen18,Emerson,10/28 - 10/30,2018,632 LV,4,44,52,Blackburn +8
+26,TN,sen18,FOX News,10/27 - 10/30,2018,718 LV,3.5,41,50,Blackburn +9
+26,TN,sen18,CNN,10/24 - 10/29,2018,764 LV,4.3,45,49,Blackburn +4
+26,TN,sen18,East Tennessee State University,10/22 - 10/29,2018,495 LV,4.4,44,44,Tie
+26,TN,sen18,NBC News/Marist,10/23 - 10/27,2018,471 LV,5.7,46,51,Blackburn +5
+26,TN,sen18,Vanderbilt University,10/8 - 10/13,2018,800 RV,4.9,44,43,Bredesen +1
+26,TN,sen18,NY Times/Siena,10/8 - 10/11,2018,593 LV,4.2,40,54,Blackburn +14
+26,TN,sen18,CBS News/YouGov,10/2 - 10/5,2018,871 LV,--,42,50,Blackburn +8
+26,TN,sen18,FOX News,9/29 - 10/2,2018,666 LV,3.5,43,48,Blackburn +5
+26,TN,sen18,CNN,9/11 - 9/15,2018,723 LV,4.3,50,45,Bredesen +5
+26,TN,sen18,FOX News,9/8 - 9/11,2018,686 LV,3.5,44,47,Blackburn +3
+26,TN,sen18,NBC News/Marist,8/25 - 8/28,2018,538 LV,5.1,48,46,Bredesen +2
+26,TN,sen18,Gravis,8/9 - 8/11,2018,620 LV,3.9,44,48,Blackburn +4
+26,TN,sen18,Emerson,7/11 - 7/14,2018,657 RV,4.1,43,37,Bredesen +6
+26,TN,sen18,Mason-Dixon,4/17 - 4/19,2018,625 RV,4,46,43,Bredesen +3
+26,TN,sen18,Middle Tn. State Univ.,3/22 - 3/29,2018,600 RV,4,45,35,Bredesen +10
+26,TN,sen18,Gravis,12/11 - 12/12,2017,563 RV,4.1,42,40,Bredesen +2
+27,TN,gov18,Emerson,10/28 - 10/30,2018,632 LV,4,41,54,Lee +13
+27,TN,gov18,FOX News,10/27 - 10/29,2018,718 LV,3.5,37,54,Lee +17
+27,TN,gov18,CNN,10/24 - 10/29,2018,764 LV,4.3,42,52,Lee +10
+27,TN,gov18,East Tennessee State University,10/22 - 10/29,2018,495 LV,4.4,36,48,Lee +12
+27,TN,gov18,NBC News/Marist,10/23 - 10/27,2018,471 LV,5.7,40,57,Lee +17
+27,TN,gov18,Vanderbilt University,10/8 - 10/13,2018,800 RV,4.9,37,48,Lee +11
+27,TN,gov18,NY Times/Siena,10/8 - 10/11,2018,642 LV,4.2,33,59,Lee +26
+27,TN,gov18,FOX News,9/29 - 10/2,2018,666 LV,3.5,36,53,Lee +17
+27,TN,gov18,CNN,9/11 - 9/15,2018,723 LV,4.3,43,52,Lee +9
+27,TN,gov18,FOX News,9/8 - 9/11,2018,686 LV,3.5,35,55,Lee +20
+27,TN,gov18,NBC News/Marist,8/25 - 8/28,2018,538 LV,5.1,40,53,Lee +13
+27,TN,gov18,Gravis,8/9 - 8/11,2018,620 LV,3.9,40,51,Lee +11
+28,KS,gov18,Emerson,10/26 - 10/28,2018,976 LV,3.3,43,44,Kobach +1
+28,KS,gov18,PPP (D),9/12 - 9/13,2018,618 LV,--,46,47,Kobach +1
+28,KS,gov18,PPP (D)*,8/24 - 8/26,2018,877 LV,--,38,39,Kobach +1
+28,KS,gov18,Remington Research (R)*,7/19 - 7/20,2018,1189 LV,2.9,36,35,Kelly +1
+29,WV,sen18,Emerson*,10/28 - 10/31,2018,1013 LV,3.2,47,42,Manchin +5
+29,WV,sen18,MetroNews*,10/19 - 10/30,2018,400 LV,4.9,45,40,Manchin +5
+29,WV,sen18,WSAZ-TV*,10/12 - 10/19,2018,650 LV,3.8,52,36,Manchin +16
+29,WV,sen18,WSAZ-TV*,9/17 - 9/26,2018,650 LV,3.8,46,38,Manchin +8
+29,WV,sen18,Emerson,9/13 - 9/15,2018,825 RV,3.5,45,33,Manchin +12
+29,WV,sen18,MetroNews,8/16 - 8/26,2018,404 LV,4.9,46,38,Manchin +8
+29,WV,sen18,Trafalgar Group (R)*,7/13 - 7/16,2018,1158 LV,2.9,50,40,Manchin +10
+29,WV,sen18,Monmouth,6/14 - 6/19,2018,527 LV,5.3,50,43,Manchin +7
+29,WV,sen18,PPP (D)*,6/12 - 6/13,2018,633 RV,--,46,35,Manchin +11
+29,WV,sen18,Gravis,5/22 - 5/22,2018,543 LV,4.2,53,40,Manchin +13
+29,WV,sen18,WPAi (R),5/10 - 5/10,2018,400 LV,4.9,44,46,Morrisey +2
+29,WV,sen18,MetroNews,8/11 - 8/20,2017,400 LV,4.9,51,37,Manchin +14
+30,IN,sen18,HarrisX,10/29 - 11/4,2018,1400 LV,2.6,41,42,Braun +1
+30,IN,sen18,HarrisX,10/30 - 11/3,2018,1000 LV,3.1,43,43,Tie
+30,IN,sen18,FOX News*,10/27 - 10/30,2018,722 LV,3.5,45,38,Donnelly +7
+30,IN,sen18,NBC News/Marist,10/24 - 10/28,2018,496 LV,5.5,48,46,Donnelly +2
+30,IN,sen18,CBS News/YouGov*,10/23 - 10/26,2018,975 LV,3.7,43,46,Braun +3
+30,IN,sen18,Indy Politics/Mason Strategies (R)*,10/15 - 10/20,2018,600 LV,3.9,43,47,Braun +4
+30,IN,sen18,SurveyUSA*,10/12 - 10/16,2018,816 LV,4.6,41,40,Donnelly +1
+30,IN,sen18,Gravis*,10/12 - 10/16,2018,377 LV,5.1,44,40,Donnelly +4
+30,IN,sen18,FOX News*,9/29 - 10/2,2018,695 LV,3.5,43,41,Donnelly +2
+30,IN,sen18,FOX News*,9/8 - 9/11,2018,677 LV,3.5,43,45,Braun +2
+30,IN,sen18,NBC News/Marist,8/26 - 8/29,2018,576 LV,5,49,43,Donnelly +6
+30,IN,sen18,Trafalgar Group (R),7/31 - 8/7,2018,1420 LV,2.6,51,39,Donnelly +12
+30,IN,sen18,Gravis,5/10 - 5/15,2018,400 LV,4.9,46,47,Braun +1
+31,CO,gov18,Magellan (R)*,10/29 - 10/30,2018,500 LV,4.4,45,40,Polis +5
+31,CO,gov18,OnSight/Keating (D)*,10/25 - 10/30,2018,517 LV,4.3,50,42,Polis +8
+31,CO,gov18,Magellan (R)*,10/8 - 10/10,2018,500 LV,4.4,47,40,Polis +7
+31,CO,gov18,Keating (D)/Magellan (R)*,9/18 - 9/20,2018,600 LV,4,47,40,Polis +7
+32,ND,sen18,FOX News,10/27 - 10/30,2018,789 LV,3,42,51,Cramer +9
+32,ND,sen18,Trafalgar Group (R),10/23 - 10/24,2018,1498 LV,2.1,45,54,Cramer +9
+32,ND,sen18,NBC Valley News,10/12 - 10/19,2018,650 LV,3.8,40,56,Cramer +16
+32,ND,sen18,FOX News,9/29 - 10/2,2018,683 LV,3.5,41,53,Cramer +12
+32,ND,sen18,NBC Valley News,9/17 - 9/27,2018,650 LV,--,41,51,Cramer +10
+32,ND,sen18,FOX News,9/8 - 9/11,2018,701 LV,3.5,44,48,Cramer +4
+32,ND,sen18,Mason-Dixon,6/13 - 6/15,2018,625 LV,4,44,48,Cramer +4
+32,ND,sen18,Gravis,2/21 - 2/24,2018,385 RV,5,43,40,Heitkamp +3
+33,ME,gov18,Emerson,10/27 - 10/29,2018,883 LV,3.5,50,42,Mills +8
+33,ME,gov18,Pan Atlantic*,10/1 - 10/7,2018,500 LV,4.4,44,36,Mills +8
+33,ME,gov18,Suffolk*,8/2 - 8/6,2018,500 LV,4.4,39,39,Tie
+34,ME,sen18,Emerson*,10/27 - 10/29,2018,883 LV,3.5,50,37,King +13
+34,ME,sen18,Pan Atlantic*,10/1 - 10/7,2018,500 LV,4.4,57,30,King +27
+34,ME,sen18,Suffolk*,8/2 - 8/6,2018,500 LV,4.4,52,25,King +27
+35,MO,sen18,Emerson,11/1 - 11/3,2018,732 LV,3.8,46,49,Hawley +3
+35,MO,sen18,HarrisX,10/29 - 11/4,2018,1400 LV,--,45,45,Tie
+35,MO,sen18,Trafalgar Group (R),10/29 - 11/4,2018,1791 LV,2.3,44,48,Hawley +4
+35,MO,sen18,HarrisX,10/28 - 11/3,2018,1400 LV,--,46,45,McCaskill +1
+35,MO,sen18,Missouri Scout*,11/1 - 11/2,2018,1424 LV,2.6,47,47,Tie
+35,MO,sen18,NBC News/Marist,10/30 - 11/1,2018,600 LV,5.2,50,47,McCaskill +3
+35,MO,sen18,FOX News,10/27 - 10/30,2018,741 LV,3.5,45,45,Tie
+35,MO,sen18,Missouri Scout*,10/24 - 10/25,2018,1376 LV,2.6,45,49,Hawley +4
+35,MO,sen18,Missouri Scout*,10/17 - 10/18,2018,1215 LV,2.7,46,47,Hawley +1
+35,MO,sen18,FOX News,9/29 - 10/2,2018,683 LV,3.5,46,46,Tie
+35,MO,sen18,Missouri Scout*,9/26 - 9/27,2018,1555 LV,2.5,46,48,Hawley +2
+35,MO,sen18,CNN*,9/25 - 9/29,2018,756 LV,4.3,47,44,McCaskill +3
+35,MO,sen18,Trafalgar Group (R),9/11 - 9/13,2018,1724 LV,2.4,44,47,Hawley +3
+35,MO,sen18,CBS News/YouGov,9/10 - 9/14,2018,917 LV,--,45,45,Tie
+35,MO,sen18,FOX News,9/8 - 9/11,2018,675 LV,3.5,45,45,Tie
+35,MO,sen18,NBC News/Marist,8/25 - 8/28,2018,568 LV,4.8,47,47,Tie
+35,MO,sen18,Missouri Scout*,8/8 - 8/9,2018,1785 LV,2.3,47,47,Tie
+35,MO,sen18,Remington Research (R),7/7 - 7/8,2018,1034 LV,3.2,46,48,Hawley +2
+35,MO,sen18,Missouri Scout*,5/9 - 5/10,2018,898 LV,3.3,48,44,McCaskill +4
+35,MO,sen18,Emerson,4/26 - 4/29,2018,600 LV,4.2,45,45,Tie
+35,MO,sen18,Missouri Scout*,4/19 - 4/20,2018,1542 LV,2.5,48,44,McCaskill +4
+35,MO,sen18,Mason-Dixon,4/4 - 4/6,2018,625 RV,4,45,44,McCaskill +1
+35,MO,sen18,Gravis,3/5 - 3/7,2018,931 RV,3.2,42,40,McCaskill +2
+35,MO,sen18,Remington Research (R),1/3 - 1/4,2018,1122 LV,2.9,45,49,Hawley +4
+35,MO,sen18,Remington Research (R),10/11 - 10/12,2017,965 LV,3.1,45,48,Hawley +3
+35,MO,sen18,Remington Research (R),8/16 - 8/18,2017,922 LV,3,45,50,Hawley +5
+35,MO,sen18,Remington Research (R),7/7 - 7/8,2017,928 LV,3.1,44,50,Hawley +6
+36,MT,sen18,Trafalgar Group (R),11/2 - 11/5,2018,953 LV,3.2,50,49,Tester +1
+36,MT,sen18,HarrisX,10/29 - 11/4,2018,1400 LV,3.7,49,43,Tester +6
+36,MT,sen18,HarrisX,10/28 - 11/3,2018,1400 LV,3.7,50,42,Tester +8
+36,MT,sen18,Gravis,10/24 - 10/26,2018,782 LV,3.5,48,45,Tester +3
+36,MT,sen18,MSU-Billings*,10/8 - 10/13,2018,471 LV,--,47,38,Tester +9
+36,MT,sen18,MTN-MSU*,9/15 - 10/6,2018,2079 RV,2.2,46,43,Tester +3
+36,MT,sen18,Gravis,9/19 - 9/22,2018,710 LV,3.7,49,45,Tester +4
+36,MT,sen18,CBS News/YouGov,9/10 - 9/14,2018,453 LV,--,47,45,Tester +2
+36,MT,sen18,Remington Research (R),7/8 - 7/10,2018,2581 LV,2,49,46,Tester +3
+36,MT,sen18,Gravis,6/11 - 6/13,2018,469 LV,4.5,52,44,Tester +8
+37,NJ,sen18,Quinnipiac,10/29 - 11/4,2018,1115 LV,4,55,40,Menendez +15
+37,NJ,sen18,Stockton University*,10/24 - 10/30,2018,598 LV,4,51,39,Menendez +12
+37,NJ,sen18,Emerson,10/24 - 10/26,2018,659 LV,4,47,42,Menendez +5
+37,NJ,sen18,Rutgers-Eagleton,10/12 - 10/16,2018,496 LV,5.1,51,46,Menendez +5
+37,NJ,sen18,Quinnipiac,10/10 - 10/16,2018,873 LV,4.3,51,44,Menendez +7
+37,NJ,sen18,Monmouth,10/11 - 10/15,2018,527 LV,4.3,49,40,Menendez +9
+37,NJ,sen18,CBS News/YouGov,10/2 - 10/5,2018,845 LV,--,49,39,Menendez +10
+37,NJ,sen18,Quinnipiac,9/25 - 10/2,2018,1058 LV,4.1,53,42,Menendez +11
+37,NJ,sen18,Fairleigh Dickinson,9/26 - 9/30,2018,508 LV,4.3,43,37,Menendez +6
+37,NJ,sen18,Stockton University*,9/19 - 9/27,2018,531 LV,4.3,45,43,Menendez +2
+37,NJ,sen18,Quinnipiac,8/15 - 8/20,2018,908 RV,4.6,43,37,Menendez +6
+37,NJ,sen18,Gravis,7/6 - 7/10,2018,563 LV,4.1,43,41,Menendez +2
+37,NJ,sen18,Fairleigh Dickinson,5/16 - 5/21,2018,856 RV,3.5,28,24,Menendez +4
+37,NJ,sen18,Monmouth,4/6 - 4/10,2018,632 RV,3.9,53,32,Menendez +21
+37,NJ,sen18,Quinnipiac,3/8 - 3/12,2018,1052 RV,4.2,49,32,Menendez +17
+38,MS,sen18,Bold Blue Campaigns/JMC,11/19 - 11/21,2018,684 LV,4,44,54,Hyde-Smith +10
+38,MS,sen18,NBC News/Marist,10/13 - 10/18,2018,511 LV,6.1,36,50,Hyde-Smith +14
+38,MS,sen18,Mason-Dixon,4/12 - 4/14,2018,625 RV,4,34,46,Hyde-Smith +12
+39,UT,sen18,Salt Lake Tribune,10/3 - 10/9,2018,607 RV,4,23,59,Romney +36
+39,UT,sen18,UtahPolicy/Dan Jones*,8/22 - 8/31,2018,809 LV,3.4,29,55,Romney +26
+39,UT,sen18,Salt Lake Tribune/Dan Jones,6/11 - 6/18,2018,654 RV,3.9,20,58,Romney +38
+39,UT,sen18,UtahPolicy/Dan Jones*,2/9 - 2/16,2018,609 RV,4,14,60,Romney +46
+39,UT,sen18,Salt Lake Tribune/Dan Jones,1/15 - 1/18,2018,803 RV,3.5,19,64,Romney +45
+39,UT,sen18,UtahPolicy/Dan Jones,8/30 - 9/5,2017,608 RV,4,26,64,Romney +38
+40,NM,gov18,Albuquerque Journal,10/26 - 11/1,2018,993 LV,3.1,53,43,Grisham +10
+40,NM,gov18,KOB-TV,10/29 - 10/29,2018,1200 LV,2.8,51,46,Grisham +5
+40,NM,gov18,Emerson,10/24 - 10/26,2018,936 LV,3.4,53,44,Grisham +9
+40,NM,gov18,Albuquerque Journal,9/7 - 9/13,2018,966 LV,3.1,50,43,Grisham +7
+40,NM,gov18,Emerson,8/17 - 8/18,2018,500 LV,4.6,42,40,Grisham +2
+40,NM,gov18,KOB-TV/SurveyUSA,6/19 - 6/23,2018,535 LV,5,51,38,Grisham +13
+41,VT,gov18,Gravis,10/30 - 11/1,2018,885 LV,3.3,39,49,Scott +10
+41,VT,gov18,Vermont Public Radio*,10/5 - 10/14,2018,495 LV,4.4,28,42,Scott +14
+42,SC,gov18,Trafalgar Group (R),10/29 - 10/31,2018,3792 LV,1.6,39,54,McMaster +15
+42,SC,gov18,Trafalgar Group (R),10/12 - 10/14,2018,4830 LV,1.6,32,56,McMaster +24
+42,SC,gov18,Trafalgar Group (R),9/24 - 10/2,2018,2692 LV,1.9,37,51,McMaster +14
+43,CT,sen18,Gravis,10/30 - 11/1,2018,681 LV,3.8,58,35,Murphy +23
+43,CT,sen18,Emerson,10/27 - 10/29,2018,780 LV,3.7,55,35,Murphy +20
+43,CT,sen18,Quinnipiac,10/22 - 10/28,2018,1201 LV,4,56,41,Murphy +15
+43,CT,sen18,Quinnipiac,10/3 - 10/8,2018,767 LV,5,57,42,Murphy +15
+43,CT,sen18,Gravis,8/24 - 8/27,2018,606 LV,4,54,37,Murphy +17
+43,CT,sen18,Quinnipiac,8/16 - 8/21,2018,1029 RV,3.9,59,31,Murphy +28
+44,MA,sen18,WBUR/MassINC*,10/25 - 10/28,2018,502 LV,4.4,54,32,Warren +22
+44,MA,sen18,Boston Globe/Suffolk*,10/24 - 10/28,2018,500 LV,4.4,56,34,Warren +22
+44,MA,sen18,Western NE University*,10/10 - 10/27,2018,402 LV,5,57,27,Warren +30
+44,MA,sen18,UMass Lowell*,10/1 - 10/7,2018,485 LV,5.6,56,31,Warren +25
+44,MA,sen18,WBUR/MassINC*,9/17 - 9/21,2018,506 LV,4.4,56,30,Warren +26
+44,MA,sen18,Boston Globe/Suffolk*,9/13 - 9/17,2018,500 LV,4.4,54,24,Warren +30
+44,MA,sen18,Boston Globe/Suffolk,6/8 - 6/12,2018,500 LV,4.4,55,33,Warren +22
+44,MA,sen18,WBUR/MassINC*,5/22 - 5/26,2018,501 RV,4.4,55,19,Warren +36
+44,MA,sen18,WBUR/MassINC*,3/16 - 3/18,2018,504 RV,4.4,55,20,Warren +35
+44,MA,sen18,WBUR/MassINC*,11/9 - 11/12,2017,504 RV,4.4,58,32,Warren +26
+44,MA,sen18,WBUR/MassINC,6/19 - 6/22,2017,504 RV,4.4,60,29,Warren +31
+45,CT,gov18,Gravis,10/30 - 11/1,2018,681 LV,3.8,46,37,Lamont +9
+45,CT,gov18,Hearst/Sacred Heart*,10/29 - 10/31,2018,500 LV,4.3,38,40,Stefanowski +2
+45,CT,gov18,Emerson,10/27 - 10/29,2018,780 LV,3.7,46,39,Lamont +7
+45,CT,gov18,Quinnipiac,10/22 - 10/28,2018,1201 LV,4,47,43,Lamont +4
+45,CT,gov18,Hearst/Sacred Heart*,10/13 - 10/17,2018,501 LV,4.3,40,36,Lamont +4
+45,CT,gov18,Quinnipiac,10/3 - 10/8,2018,767 LV,5,47,39,Lamont +8
+45,CT,gov18,Hearst/Sacred Heart,9/12 - 9/17,2018,501 LV,4.3,43,37,Lamont +6
+45,CT,gov18,Gravis,8/24 - 8/27,2018,606 LV,4,49,40,Lamont +9
+45,CT,gov18,Quinnipiac,8/16 - 8/21,2018,1029 RV,3.9,53,37,Lamont +16
+46,MD,gov18,Washington Post,10/4 - 10/7,2018,648 LV,4.5,38,58,Hogan +20
+46,MD,gov18,Gonzales Research*,10/1 - 10/6,2018,806 LV,3.5,36,54,Hogan +18
+46,MD,gov18,Mason-Dixon*,9/24 - 9/26,2018,625 LV,4,37,52,Hogan +15
+46,MD,gov18,Goucher College,9/11 - 9/16,2018,472 LV,4.5,32,54,Hogan +22
+46,MD,gov18,Gonzales Research,8/1 - 8/8,2018,831 LV,3.5,36,52,Hogan +16
+46,MD,gov18,Gonzales Research,6/4 - 6/10,2018,800 LV,3.5,34,51,Hogan +17
+46,MD,gov18,Washington Post,5/29 - 6/3,2018,968 RV,4.5,39,51,Hogan +12
+46,MD,gov18,Goucher College,4/14 - 4/19,2018,449 LV,4.6,31,44,Hogan +13
+46,MD,gov18,Mason-Dixon,2/20 - 2/24,2018,625 RV,4,33,50,Hogan +17
+46,MD,gov18,Mason-Dixon,9/27 - 9/30,2017,625 RV,4,33,49,Hogan +16
+47,OR,gov18,Hoffman Research (R)*,10/29 - 10/30,2018,694 LV,3.7,45,42,Brown +3
+47,OR,gov18,Emerson,10/26 - 10/28,2018,747 LV,3.7,47,42,Brown +5
+47,OR,gov18,OPB/DHM Research*,10/4 - 10/11,2018,500 RV,4.4,40,35,Brown +5
+47,OR,gov18,The Oregonian*,9/24 - 10/7,2018,356 LV,5,49,45,Brown +4
+47,OR,gov18,Clout Research (R),9/20 - 9/23,2018,679 LV,3.8,42,41,Brown +1
+47,OR,gov18,Hoffman Research (R)*,9/12 - 9/13,2018,680 LV,3.8,46,36,Brown +10
+47,OR,gov18,Clout Research (R),7/30 - 7/31,2018,559 LV,4.1,42,43,Buehler +1
+47,OR,gov18,Gravis,7/16 - 7/17,2018,770 LV,3.5,45,45,Tie
+47,OR,gov18,OPB/DHM Research,1/25 - 1/31,2018,604 A,4,46,29,Brown +17
+48,OK,gov18,Sooner Poll*,10/31 - 11/3,2018,338 LV,5.3,44,47,Stitt +3
+48,OK,gov18,Sooner Poll*,10/23 - 10/25,2018,447 LV,4.6,42,46,Stitt +4
+48,OK,gov18,Magellan (R)*,10/22 - 10/23,2018,500 LV,4.4,44,51,Stitt +7
+48,OK,gov18,Cole Hargrave Snodgrass & Associates*,9/25 - 9/29,2018,500 LV,4.3,40,46,Stitt +6
+48,OK,gov18,Sooner Poll*,9/5 - 9/10,2018,407 LV,4.9,44,47,Stitt +3
+48,OK,gov18,Sooner Poll,7/18 - 7/20,2018,404 LV,4.9,40,39,Edmondson +1
+48,OK,gov18,Sooner Poll,5/15 - 5/23,2018,622 LV,3.9,32,25,Edmondson +7
+49,AR,gov18,Talk Business/Hendrix College*,10/18 - 10/19,2018,528 LV,4.3,24,60,Hutchinson +36
+49,AR,gov18,The Arkansas Poll,10/1 - 10/28,2018,618 LV,3.9,35,59,Hutchinson +24
+49,AR,gov18,Talk Business/Hendrix College*,9/5 - 9/7,2018,1701 LV,2.4,25,60,Hutchinson +35
+49,AR,gov18,Mason-Dixon,3/21 - 3/24,2018,625 LV,4,24,63,Hutchinson +39
+50,MA,gov18,WBUR/MassINC,10/25 - 10/28,2018,502 LV,4.4,25,68,Baker +43
+50,MA,gov18,Western NE University,10/10 - 10/27,2018,402 LV,5,27,65,Baker +38
+50,MA,gov18,Boston Globe/Suffolk,10/24 - 10/28,2018,500 LV,4.4,26,65,Baker +39
+50,MA,gov18,UMass Lowell,10/1 - 10/7,2018,485 LV,5.6,27,66,Baker +39
+50,MA,gov18,WBUR/MassINC,9/17 - 9/21,2018,506 LV,4.4,24,68,Baker +44
+50,MA,gov18,Boston Globe/Suffolk,9/13 - 9/17,2018,500 LV,4.4,28,55,Baker +27
+50,MA,gov18,Boston Globe/Suffolk,6/8 - 6/12,2018,500 LV,4.4,22,52,Baker +30
+50,MA,gov18,WBUR/MassINC,5/22 - 5/26,2018,501 RV,4.4,20,60,Baker +40
+50,MA,gov18,WBUR/MassINC,3/16 - 3/18,2018,504 RV,4.4,21,60,Baker +39
+50,MA,gov18,WBUR/MassINC,11/9 - 11/12,2017,504 RV,4.4,19,59,Baker +40
+50,MA,gov18,WBUR/MassINC,6/19 - 6/22,2017,504 RV,4.4,22,55,Baker +33
